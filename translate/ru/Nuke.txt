@@ -1,0 +1,4 @@
+<size=180><color=red>PROCEURA W-1</color></size>
+<color=red><size=200>PROCEDURA W-2</size></color>
+<color=lime><size=180>PROCEDURA W-3</size></color>
+DETONACJA NIEUNIKNIONA
